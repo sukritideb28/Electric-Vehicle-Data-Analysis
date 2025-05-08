@@ -37,5 +37,6 @@ This project presents a comprehensive data analysis of Electric Vehicles (EVs) u
 9.	Visualization: Tree map
 10.	Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
-
+--Dashboard Interaction
+ <a href="https://github.com/sukritideb28/Electric-Vehicle-Data-Analysis/commit/459240e436bd85a2b47b3ec224df27574d3ae185">View Dashboard</a>
 
