@@ -2,7 +2,12 @@
 ## Project Objective
 This project presents a comprehensive data analysis of Electric Vehicles (EVs) using Tableau, with a focus on key performance indicators and visual insights to track EV adoption trends across different regions.
 
---QUESTIONS KPI’S
+ Dataset Used 
+
+ - <a href="https://github.com/sukritideb28/Electric-Vehicle-Data-Analysis/commit/647a74dc91d10068fa453284765f91936b1e4cfd">Dataset</a>
+
+
+ --QUESTIONS KPI’S
 1.	 Total Vehicles:
 •	Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 2. Average Electric Range:
